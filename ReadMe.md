@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Anandhu Manoj</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | React.js | Next.js | TypeScript | AWS S3
+Full Stack Developer | MERN Stack | Java | Spring Boot | React.js | Next.js | TypeScript
 </h3>
 
 <p align="center">
-Passionate about building scalable, responsive, and user-friendly web applications using modern web technologies.
+Passionate about building scalable, responsive, and user-friendly web applications using modern frontend and backend technologies.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Developer specializing in the MERN Stack
-- ⚛️ Experienced in React.js, Next.js, and TypeScript
+- 💻 Full Stack Developer with experience in MERN Stack and Java
+- ⚛️ Experienced in React.js, Next.js, TypeScript, and Redux
+- ☕ Developing backend applications using Java and Spring Boot
+- 🌱 Currently improving my backend, database, and cloud development skills
 - ☁️ Familiar with AWS S3 for cloud file storage
+- 🗄️ Experience with MongoDB and PostgreSQL
 - 🚀 Building modern, responsive, and scalable web applications
-- 🌱 Currently improving my backend and cloud development skills
-- 💼 Open to React.js, Next.js, MERN Stack, and Full Stack Developer opportunities
+- 💼 Open to React.js, Next.js, MERN Stack, Java, Spring Boot, and Full Stack Developer opportunities
 
 ---
 
@@ -32,8 +34,21 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,postgresql" />
 </p>
+
+### Java & Spring
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- Spring JDBC
+- JSP
+- Servlets
+- REST APIs
+- PostgreSQL
 
 ### Cloud & Deployment
 
@@ -41,10 +56,14 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 <img src="https://skillicons.dev/icons?i=aws,vercel,github,git" />
 </p>
 
+- AWS S3
+- Vercel
+- Render
+
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,maven,git,github" />
 </p>
 
 ---
@@ -77,9 +96,10 @@ A modern web application for uploading and viewing GLB 3D models.
 ### Features
 
 - Upload 3D Models
-- Interactive Viewer
+- Interactive 3D Viewer
 - AWS S3 Storage
 - Responsive UI
+- GLB Model Rendering
 
 **Tech Stack**
 
@@ -115,7 +135,31 @@ React • Redux • Tailwind CSS
 
 ---
 
+## 💻 Job Portal Web App
+
+A full-stack job portal application built using Java and Spring Boot.
+
+### Features
+
+- Create and manage job posts
+- View all available jobs
+- Job post details
+- Form handling
+- REST-style request handling
+- JSP-based frontend
+- PostgreSQL database integration
+- Spring Data JPA
+- MVC architecture
+
+**Tech Stack**
+
+Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate • PostgreSQL • JSP • Bootstrap
+
+---
+
 # 🛠️ Technologies I Work With
+
+### Frontend
 
 - HTML5
 - CSS3
@@ -127,20 +171,43 @@ React • Redux • Tailwind CSS
 - React Router
 - Bootstrap
 - Tailwind CSS
+
+### Java & Backend
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- Spring JDBC
+- JSP
+- Servlets
+- REST APIs
 - Node.js
 - Express.js
+
+### Databases
+
 - MongoDB
 - Mongoose
-- REST APIs
+- PostgreSQL
+- JSON Server
+
+### Authentication & File Handling
+
 - JWT Authentication
 - Multer
 - AWS S3
+
+### Tools & Deployment
+
 - Git
 - GitHub
 - Vercel
 - Render
 - VS Code
 - Postman
+- Maven
 
 ---
 
@@ -178,19 +245,22 @@ React • Redux • Tailwind CSS
 
 # 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: **anandhumanoj525@gmail.com**
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: **https://www.linkedin.com/in/anandhu-manoj/**
 
-🌐 Portfolio: https://your-portfolio.vercel.app
+🌐 Portfolio: **https://your-portfolio.vercel.app**
 
-🐙 GitHub: https://github.com/Anandhu-Manoj
+🐙 GitHub: **https://github.com/Anandhu-Manoj**
 
 ---
 
 # 💡 Currently Learning
 
+- Advanced Spring Boot
+- Spring Data JPA & Hibernate
 - Advanced Next.js
+- PostgreSQL
 - Cloud Deployment
 - AWS Services
 - System Design
